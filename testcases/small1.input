@@ -1,0 +1,10 @@
+max weight: 200
+
+available dolls:
+
+name    weight value
+A        200   100
+B      100    90
+C        70    30
+D    80    25
+

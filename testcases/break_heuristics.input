@@ -1,0 +1,12 @@
+max weight: 200
+
+available dolls:
+
+name    weight value
+al        200   100
+seth      100    90
+doc       100    90
+dan         1    10
+sol        70    30
+charlie    80    25
+
